@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+.nav {
+  background-color: aqua;
+  
+}
+.nav-link ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+}
+.nav-link a{
+    text-decoration: none;
+    margin: 0px 15px;
+    
+}
